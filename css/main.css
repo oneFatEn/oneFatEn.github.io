@@ -2678,7 +2678,7 @@ header.header,
 }
 /* 站点标题背景 */
 .site-brand-container {
-  background: url("/resources/img/header-pink.webp");
+  background: url("/images/header-pink.webp");
   background-position: 70% 20%;
   background-size: cover;
 }
