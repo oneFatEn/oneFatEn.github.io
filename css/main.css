@@ -2647,7 +2647,7 @@ header.header {
 body {
   background-image: url("/images/body.webp");
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
   background-attachment: fixed;
 }
 @media (prefers-color-scheme: dark) {
